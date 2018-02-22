@@ -1,0 +1,70 @@
+[
+  {
+    "value": "Onions",
+    "synonyms": [
+      "Onions"
+    ]
+  },
+  {
+    "value": "Pineapple",
+    "synonyms": [
+      "Pineapple"
+    ]
+  },
+  {
+    "value": "None",
+    "synonyms": [
+      "None",
+      "Nopes",
+      "No",
+      "No thank you",
+      "Naaah",
+      "Nah",
+      "Anope",
+      "No"
+    ]
+  },
+  {
+    "value": "Tomato",
+    "synonyms": [
+      "Tomato"
+    ]
+  },
+  {
+    "value": "Jalapenos",
+    "synonyms": [
+      "Jalapoenos"
+    ]
+  },
+  {
+    "value": "Olives",
+    "synonyms": [
+      "Olives"
+    ]
+  },
+  {
+    "value": "Pepperoni",
+    "synonyms": [
+      "Pep",
+      "pepperoni"
+    ]
+  },
+  {
+    "value": "Golden Corn",
+    "synonyms": [
+      "Golden Corn"
+    ]
+  },
+  {
+    "value": "Extra cheese",
+    "synonyms": [
+      "Extra cheese"
+    ]
+  },
+  {
+    "value": "Mushrooms",
+    "synonyms": [
+      "Mushrooms"
+    ]
+  }
+]

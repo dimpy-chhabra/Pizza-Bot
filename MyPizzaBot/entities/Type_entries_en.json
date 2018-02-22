@@ -1,0 +1,58 @@
+[
+  {
+    "value": "Margherita",
+    "synonyms": [
+      "Margherita",
+      "All Cheese",
+      "Simple Cheese Pizza",
+      "cheese pizza"
+    ]
+  },
+  {
+    "value": "Veg Extravaganza",
+    "synonyms": [
+      "Veg Extravaganza",
+      "Veggies and Cheese",
+      "All Veg extravaganza"
+    ]
+  },
+  {
+    "value": "Non Veg Supreme",
+    "synonyms": [
+      "Non Veg Supreme",
+      "Non-Veg",
+      "Non vegeterian",
+      "Chicken Pizza"
+    ]
+  },
+  {
+    "value": "Farm House",
+    "synonyms": [
+      "Farm House",
+      "veggies pizza",
+      "Capsicum Mushroom and Tomatoes"
+    ]
+  },
+  {
+    "value": "Veg Supreme pizza",
+    "synonyms": [
+      "Veg Supreme pizza"
+    ]
+  },
+  {
+    "value": "Veg Supreme",
+    "synonyms": [
+      "Veg Supreme"
+    ]
+  },
+  {
+    "value": "Mexican Green Wave",
+    "synonyms": [
+      "Mexican Green Wave",
+      "Mexican",
+      "Green Wave",
+      "jalapeno and mexican",
+      "Mexican Pizza"
+    ]
+  }
+]

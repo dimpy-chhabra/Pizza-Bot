@@ -1,0 +1,111 @@
+{
+  "id": "ac944171-b3d2-4a99-83f0-083f61cdef66",
+  "name": "Hungry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "67bfaa6c-46e6-4e0a-9360-cec819f75d90",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "Name",
+          "value": "$Name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "First, what\u0027s your name ?"
+            },
+            {
+              "lang": "en",
+              "value": "What should I call you, name please?"
+            },
+            {
+              "lang": "en",
+              "value": "\u0027eh! Didn\u0027t quite catch your name there. What\u0027s your name please?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "85901273-3634-41e2-83ce-a3910b01f5c0",
+          "required": true,
+          "dataType": "@Type",
+          "name": "Pizza_type",
+          "value": "$Pizza_type",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which Type of Pizza would you like? Give us a hint, we\u0027ll figure it out!"
+            },
+            {
+              "lang": "en",
+              "value": "Please mention a type of pizza."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "ec615d20-8a30-4347-aa09-becc3dfab08b",
+          "required": true,
+          "dataType": "@Crust",
+          "name": "Crust",
+          "value": "$Crust",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "And what type of crust would you prefer?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "78f6104f-0400-4785-ac75-69a725d64c29",
+          "required": true,
+          "dataType": "@Size",
+          "name": "Size",
+          "value": "$Size",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What Size Pizza?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "88a00778-f59f-4fca-b9d3-1f8eb7380eaa",
+          "required": true,
+          "dataType": "@extraToppings",
+          "name": "extraToppings",
+          "value": "$extraToppings",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Any Toppings?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Very Well! :D"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518368786,
+  "fallbackIntent": false,
+  "events": []
+}

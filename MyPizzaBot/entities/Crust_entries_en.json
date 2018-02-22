@@ -1,0 +1,55 @@
+[
+  {
+    "value": "Wheat Thin Crust",
+    "synonyms": [
+      "Wheat Thin Crust",
+      "Wheaty one",
+      "Wheat crust",
+      "thin crust",
+      "Healthy Crust",
+      "light wheat thin",
+      "light healthier"
+    ]
+  },
+  {
+    "value": "Cheese Burst",
+    "synonyms": [
+      "Cheese Burst",
+      "Cheezy Crust",
+      "Cheesy crust",
+      "liquid cheese filled inside",
+      "liquid cheese crust",
+      "cheese filled"
+    ]
+  },
+  {
+    "value": "Classic Hand Tossed",
+    "synonyms": [
+      "Classic Hand Tossed",
+      "Classic",
+      "Simple Hand Tossed"
+    ]
+  },
+  {
+    "value": "Fresh Pan Pizza",
+    "synonyms": [
+      "Fresh Pan Pizza",
+      "Pan Pizza",
+      "Pan",
+      "Pan Baked",
+      "Baked"
+    ]
+  },
+  {
+    "value": "New Hand Tossed",
+    "synonyms": [
+      "New Hand Tossed"
+    ]
+  },
+  {
+    "value": "crust",
+    "synonyms": [
+      "crust"
+    ]
+  }
+]

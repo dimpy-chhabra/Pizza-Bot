@@ -1,0 +1,36 @@
+[
+  {
+    "value": "Large",
+    "synonyms": [
+      "Large",
+      "Largest",
+      "Big",
+      "Party pizza",
+      "12 inches",
+      "30 cms"
+    ]
+  },
+  {
+    "value": "Medium",
+    "synonyms": [
+      "Medium",
+      "Pizza for two",
+      "10 inches",
+      "25 cms",
+      "pizza for 2"
+    ]
+  },
+  {
+    "value": "Regular",
+    "synonyms": [
+      "Regular",
+      "Smallest",
+      "Pizza for 1",
+      "small",
+      "8 inches",
+      "20 cms",
+      "Personal",
+      "single"
+    ]
+  }
+]
